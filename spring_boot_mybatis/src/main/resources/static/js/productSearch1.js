@@ -54,7 +54,7 @@
 																	result[i].prdCompany + '</td><td>' +
 																	result[i].prdStock + '</td><td>' +
 																	prdDate + '</td><td>' +
-																	'<img src="/mybatis/prd_images/'+result[i].prdNo +
+																	'<img src="/prd_images/'+result[i].prdNo +
 																	'.jpg" width="30" height="20"></td></tr>');		
 							
 								} //for 끝
